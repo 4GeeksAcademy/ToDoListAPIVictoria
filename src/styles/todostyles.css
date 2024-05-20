@@ -1,0 +1,15 @@
+#icons {
+    float: right;
+}
+
+#check:hover {
+    color: green
+}
+
+#edit:hover {
+    color: blue;
+}
+
+#delete:hover {
+    color: red
+}
